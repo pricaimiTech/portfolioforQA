@@ -33,4 +33,4 @@ Aprenda de forma gratuita como evoluir a sua carreira de QA do Zero
 ## Canais que indico 
 
 - [Agilizei](https://www.youtube.com/@Agilizei) Toda minha base de estudo para Cypress foi aqui
-- [Rei do Postman](https://www.youtube.com/@vdespa)
+- [Rei do Postman](https://www.youtube.com/@vdespa) Simplesmente o melhor canal para se aprender a tirar o supra sumo do Postman
